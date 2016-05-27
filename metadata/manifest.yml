@@ -7,7 +7,7 @@ License: "None"
 Vendor: Custom Cartridges Inc
 Cartridge-Version: 0.0.1
 Cartridge-Vendor: customcarts
-Source-Url: https://github.com/tresbailey/phantomjs-cartridge.git
+Source-Url: https://github.com/nychyk/phantomjs-cartridge.git
 Categories:
   - service
 Provides:
