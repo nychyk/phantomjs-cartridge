@@ -19,3 +19,8 @@ Cart-Data:
 Group-Overrides:
   - components:
     - phantomjs
+Endpoints:
+- Private-IP-Name: PHANTOMJSY_HOST
+  Private-Port-Name: PHANTOMJSY_PORT
+  Private-Port: 13306
+  Public-Port-Name: PHANTOMJSY_PROXY_PORT
